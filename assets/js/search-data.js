@@ -490,7 +490,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/Everettwei", "_blank");
+          window.open("https://github.com/EveretteWei", "_blank");
         },
       },{
         id: 'social-x',
